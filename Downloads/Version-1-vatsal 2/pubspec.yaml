@@ -1,0 +1,41 @@
+name: health_hub_project
+description: "Smart health project"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.3.3 # Replace x.x.x with the latest version of sqflite
+  path: ^1.9.0 # Replace x.x.x with the latest version of path
+  pdf: ^3.10.8
+  firebase_core: ^2.29.0
+  firebase_auth: ^4.19.1
+  cloud_firestore: ^4.16.1
+  firebase_database: ^10.5.1
+  firebase_analytics: ^10.10.1
+  fl_chart: ^0.67.0
+  flutter_rating_bar: ^4.0.0
+  shared_preferences: ^2.0.13
+  cupertino_icons: ^1.0.6
+  path_provider: any
+  intl: ^0.17.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^3.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/image.png

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "160770725455",
+    "firebase_url": "https://heathhub-bca8d-default-rtdb.firebaseio.com",
+    "project_id": "heathhub-bca8d",
+    "storage_bucket": "heathhub-bca8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160770725455:android:2dab2ecdec0b0ce9febc3a",
+        "android_client_info": {
+          "package_name": "com.example.health_hub_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq6_vBWxIRD9D184GVXLLB0V07xOFJWLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
